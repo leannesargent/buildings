@@ -6,12 +6,14 @@
 # Custom files
 *.xlsx
 *.csv
+*.html
+*.png 
 .DS*
 .vscode/settings.json
 env/
 
 
-
+####################################################################################################################################
 # User-specific files
 *.rsuser
 *.suo
